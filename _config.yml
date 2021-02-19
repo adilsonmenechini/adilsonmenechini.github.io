@@ -1,11 +1,11 @@
 # Site settings
-title: portfolYOU
+title: Menechini
 description: >- # this means to ignore newlines until "baseurl:"
   Always code as if the guy who ends up maintaining your code
   will be a violent psychopath who knows where you live.
 baseurl: "/portfolYOU"  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: YoussefRaafatNasry/portfolYOU
+#repository: YoussefRaafatNasry/portfolYOU
 
 
 # Build settings
@@ -16,23 +16,23 @@ markdown: kramdown
 
 # Author Info
 author:
-  name          : John Doe
-  image         : https://bit.ly/2Fqe5kQ
-  behance       : your_username
+  name          : Adilson Menechini
+  image         : images/perfil.jpeg
+# behance       : your_username
 # dribbble      : your_username
-  email         : username@domain.com
-  facebook      : your_username
-  github        : your_username
-# gitlab        : your_username
+  email         : adilsonmenechini@gmail.com
+  facebook      : adilsonmenechini
+  github        : adilsonmenechini
+  gitlab        : adilsonmenechini
 # instagram     : your_username
-  linkedin      : your_username
-  medium        : your_username
+  linkedin      : adilsonmenechini
+# medium        : your_username
 # soundcloud    : your_username
 # spotify       : your_username
 # stackoverflow : your_user_id
 # tumblr        : your_username.tumblr.com
 # twitch        : your_username
-  twitter       : your_username
+  twitter       : dilsonmenechini
 # vimeo         : your_username
 # youtube       : your_channel_name
 
