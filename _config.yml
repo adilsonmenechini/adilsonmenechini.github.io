@@ -2,8 +2,7 @@
 title: Home
 description: >- # this means to ignore newlines until "baseurl:"
 
-  Adilson Menechini
-
+  Adilson Menechini.
   We DevOps deliver products.
 
 baseurl: "/"  # the subpath of your site, e.g. /blog
