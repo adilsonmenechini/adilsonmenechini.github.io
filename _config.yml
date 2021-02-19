@@ -17,7 +17,7 @@ markdown: kramdown
 # Author Info
 author:
   name          : Adilson Menechini
-  image         : _images/perfil.jpeg
+  image         : /images/perfil.jpeg
 # behance       : your_username
 # dribbble      : your_username
   email         : adilsonmenechini@gmail.com
