@@ -7,7 +7,9 @@ weight: 4
 
 # Preparatorio DevOps
 
+
 ## Project
+
 
 ### Jira
 [Jira Software 2020](https://www.youtube.com/watch?v=k_zcOLQOII8&list=PLdbeMxdOH2IahgTXqTsnbqNqB0Jv4ygSe) - Moxie
@@ -17,6 +19,7 @@ weight: 4
 
 ## CI/CD
 
+
 ### Git
 [Curso Gratuito Git](https://www.youtube.com/playlist?list=PLMFPOLE2cW1xxM90upqYdK3_8X7z2MgTh) - Julio Arruda 
 []()
@@ -25,15 +28,18 @@ weight: 4
 
 ### Docker
 [Descomplicando o Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb) - LINUXtips
+
 [Docker: Seu primeiro passo antes do Kubernetes](https://www.youtube.com/watch?v=moWPBWEo5RI&list=PLZfrXScDmaiPb8hegiJTqKI8aDUJpo-IJ) - Fabrício Veronez KubeDev
 []()
 
 ### Kubernetes
 [Descomplicando o kubernetes](https://www.youtube.com/watch?v=pV0nkr61XP8&list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S) - LINUXtips
+
 [Falando muito sobre kubernetes](https://www.youtube.com/watch?v=LqzY9eun6Fk&list=PLZfrXScDmaiMdzrIqxsQsSv2VDqidc-RL) - Fabrício Veronez KubeDev
 []()
 
 ## Azure
+
 
 ### Azure DevOps
 
