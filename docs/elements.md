@@ -1,3 +1,10 @@
+---
+layout: page
+title: Elements
+permalink: /elements/
+weight: 4
+---
+
 # Preparatorio DevOps
 
 ## Project
@@ -32,3 +39,4 @@
 
 [Primeiros Passos Azure DevOps](https://www.youtube.com/watch?v=4BYlkYtHNus&list=PLMFPOLE2cW1yMNDWHnTxYk8w7EgwLjm97) - Julio Arruda
 [Maratona Azure DevOps](https://www.youtube.com/watch?v=ECiDluCSut0&list=PLkzPm5uaOj999IgfpBN6gmgfd0zqfezfw) - DevelopersBr
+
