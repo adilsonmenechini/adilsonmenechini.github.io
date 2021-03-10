@@ -24,7 +24,9 @@ weight: 5
 
 ### Git
 [Curso Gratuito Git](https://www.youtube.com/playlist?list=PLMFPOLE2cW1xxM90upqYdK3_8X7z2MgTh) - Julio Arruda 
-[]()
+
+[Git Essencial](https://www.youtube.com/watch?v=rO0rGdROvyw&list=PL-R1FQNkywO4TWbgXoKI_VpIgWfJdipAD) -  Brazilian Dev
+
 
 ## Container / Orquestrador
 
