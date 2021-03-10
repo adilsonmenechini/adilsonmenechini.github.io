@@ -1,17 +1,15 @@
 - title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+  from: 2008
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  • Firewall administration 
+                • High Availability on Networks and Servers 
+                • Management experience in switch/router (Cisco IOS, HP, Juniper, Hirschmann, Mikrotik, and Rockwell) 
+                • Experience in container orchestration (Kubernetes and Swarm) 
+                • Knowledge in Microservices and CI / CD pipelines environments 
+                • Knowledge in IaC automation tools (Ansible, Packer, Terraform) 
+                • Experience in Virtual Environment (Hyper v, VMWare, Xenserver Citrix) 
+                • Experience of monitoring tools (Grafana, Nagios, Prometheus, and Zabbix) 
+                • Experience of Linux Servers, Windows Server 2008-2016
+                • Experience Cloud Computing Architecture on Amazon Web Services  
+                • Experience with network administration on AWS (VPC, Security Group, Route 53, and others).  
+                • Management (EKS, EC2)
